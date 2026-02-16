@@ -145,7 +145,7 @@ Based on the analysis, the following actions are recommended:
 * **SQL:** PostgreSQL
 * **Visualization:** Power BI
 * **Database Integration:** Python → PostgreSQL
-* **Presentation: **Gaama AI
+* Presentation: Gaama AI and PowerPoint 
 
 ---
 
@@ -158,5 +158,3 @@ This project demonstrates **end-to-end data analytics skills**, including:
 * Dashboard storytelling
 * Actionable business recommendations
 
-
-Just tell me 👍
